@@ -1,0 +1,8 @@
+{
+  "name": "vue-share",
+  "version": 2,
+  "alias": "vue-share",
+  "files": [
+    "dist"
+  ]
+}
